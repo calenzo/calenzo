@@ -11,8 +11,6 @@
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
 
-### I’m currently working on ...
-- At the moment just studying!
 ### I’m currently learning ...
 - Python with flask and Django
 - API, Rest and RestFul
@@ -20,12 +18,6 @@
 - Backend...
 ### I’m looking to collaborate on ...
 - Any open source project
-
-### I’m looking for help with ...
-- Any weird or interesting idea
-
-### Ask me about ...
-- Anything, I'm a very curious person!
 ### How to reach me: ...
 <p align="center">
   <a href="https://www.instagram.com/henrique.calenzo/">
@@ -45,16 +37,14 @@
         <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              
 </p>
-
+<br/>
 <p align="right">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=henriquecalenzoo&theme=tokyonight&show_icons=true" />
 
 <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecalenzoo&theme=tokyonight&show_icons=true" />
-
 </p>
 
 ---
