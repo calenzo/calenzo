@@ -1,5 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Hello! 👋 Who am I? #
+
+# Hello! 👋 Who am I?
+
 <div>
 <br/>
 - 🔭 Full-stack developer with 3+ years of experience development and building scalable, high-performance web applications<br/>
@@ -9,8 +11,7 @@
 
 </div>
 
-# Main Skills #
-
+# Main Skills
 
 <a href="https://developer.android.com/reference"><img src="./assets/android-plain.svg" alt="android" height="100" title="Android reference"></a>
 <a href="https://https://ios.cfw.guide/"><img src="./assets/ios.svg" alt="ios" height="100" title="iOS reference"></a>
@@ -19,8 +20,8 @@
 <a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
 <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
 
-
 # 💻 My favorite tools and technologies
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -89,15 +90,9 @@
 </table>
 <br><br>
 
-
 </div>
 
-
 <p align="center">
-
-<!--
-<a href="https://github.com/calenzo?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Goblin's github-readme-stats"/></a>
--->
 
 <a href="https://github.com/calenzo?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
 <a href="https://github.com/calenzo?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=calenzo&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
@@ -112,7 +107,6 @@
 </p>
 <!-- activity graph heroku-app end -->
 
-
 <p align="center">
 <a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
 <a href="https://github.com/calenzo?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
@@ -124,7 +118,8 @@
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
-## Languages and Tools  
+## Languages and Tools
+
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
