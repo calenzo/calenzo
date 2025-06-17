@@ -4,7 +4,7 @@
 
 <div>
 <br/>
-- 🔭 Full-stack developer with 3+ years of experience development and building scalable, high-performance web applications<br/>
+- 🔭 Full-stack developer with 7+ years of experience development and building scalable, high-performance web applications<br/>
 - 🌱 Proficient in front-end technologies like React, as well as back-end technologies like Node.js and Python<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS S3 and Lambda<br/>
 - 😉 I'm study Neural Network.</br>
